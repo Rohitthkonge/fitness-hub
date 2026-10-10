@@ -57,11 +57,11 @@ Users can adjust goals, swap exercises, modify calorie targets, and inspect gene
 
 | Landing Page | Goal Selection |
 | :---: | :---: |
-| ![Landing Page](docs/screenshots/landing.png) | ![Goal Selection](docs/screenshots/goals.png) |
+| <img src="docs/screenshots/landing.png" alt="Landing Page" width="100%" /> | <img src="docs/screenshots/goals.png" alt="Goal Selection" width="100%" /> |
 
 | Dashboard | AI Fitness Agent |
 | :---: | :---: |
-| ![Dashboard](docs/screenshots/dashboard.png) | ![AI Agent](docs/screenshots/ai-agent.png) |
+| <img src="docs/screenshots/dashboard.png" alt="Dashboard" width="100%" /> | <img src="docs/screenshots/ai-agent.png" alt="AI Fitness Agent" width="100%" /> |
 
 ## 🛠️ Tech Stack
 

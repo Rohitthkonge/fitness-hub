@@ -146,4 +146,7 @@ fitness-hub/
 
 ## 👥 Team
 
-- **Rohitth**
+- Rohitth K
+- Mohan Charan Teja B
+- Maheswar S
+- Sriram S
